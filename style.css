@@ -1,0 +1,44 @@
+.btt{
+    width:7em;
+    height:5em;
+    background-color: sandybrown;
+    border: 5px solid firebrick;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+}
+
+.btt:active{
+    background-color: blanchedalmond;
+    border: 3px solid salmon;
+}
+
+#op{
+    background-color:cornsilk;
+    width:4em;
+    font-weight: bold;
+    font-size:larger
+}
+
+input[type="button"]:active{
+    border: none;
+}
+
+#calc{
+    margin-left:30%;
+}
+
+td{
+    padding:1%;
+    padding-right:1em;
+}
+
+div#text{
+    width:31em;
+    height: 6em;
+    border:5px solid firebrick;
+}
